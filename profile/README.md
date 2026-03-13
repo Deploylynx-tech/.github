@@ -1,74 +1,23 @@
-# 🚀 DeployLynx
+# DeployLynx 🚀
 
-### AI Automation • Smart Systems • Scalable Digital Solutions
+DeployLynx is a DevOps and Cloud Infrastructure organization focused on building scalable deployment systems and automation pipelines.
 
-DeployLynx builds intelligent automation tools, AI-powered applications, and scalable cloud systems designed to help businesses streamline workflows and operate smarter.
+## 🔧 What We Do
 
----
+- CI/CD Pipeline Engineering
+- Cloud Infrastructure Automation
+- Kubernetes & Container Orchestration
+- DevSecOps Security Integration
+- Monitoring & Logging Systems
 
-## 🌟 Products & Projects
+## 🛠 Tech Stack
 
-• AI Automation Tools  
-• Smart Web Applications  
-• Workflow Automation Systems  
-• AI-Powered SaaS Platforms  
+AWS • Docker • Kubernetes • Terraform • GitHub Actions • Jenkins • Linux • Prometheus • Grafana
 
----
+## 🌐 Mission
 
-## ⚡ Technology Stack
+To simplify cloud deployments and empower teams with reliable DevOps infrastructure.
 
-- Python
-- JavaScript
-- Node.js
-- Cloud Infrastructure
-- AI APIs
-- DevOps & Automation
+## 📫 Connect
 
----
-
-## ⚡ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![AI](https://img.shields.io/badge/AI-Automation-blue?style=for-the-badge)
-![Cloud](https://img.shields.io/badge/Cloud-Infrastructure-orange?style=for-the-badge)
-![DevOps](https://img.shields.io/badge/DevOps-CI/CD-red?style=for-the-badge)
-
----
-## 📂 Core Repositories
-
-| Project | Description |
-|--------|-------------|
-| deploylynx-website | Official DeployLynx website |
-| ai-automation-tools | AI automation tools and scripts |
-| deploylynx-projects | Portfolio of engineering projects |
-| deploylynx-docs | Documentation and technical guides |
-
----
-
-## 🌍 Connect
-
-📧 deploylynx26@gmail.com  
-
-Instagram  
-https://www.instagram.com/deploylynx26/
-
----
-
-## 📊 GitHub Stats
-
-![DeployLynx GitHub stats](https://github-readme-stats.vercel.app/api?username=deploylynx-tech&show_icons=true&theme=github_dark)
-
----
-
-LinkedIn  
-https://www.linkedin.com/company/linkedin-deploylynx-devops/
-
----
-
-![Visitors](https://komarev.com/ghpvc/?username=deploylynx-tech&color=blue)
-
-
-
-⭐ Follow DeployLynx to stay updated with AI automation tools and engineering projects.
+Follow our repositories to explore DevOps pipelines, infrastructure templates, and automation tools.
